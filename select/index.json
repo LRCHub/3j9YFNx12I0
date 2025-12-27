@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "恋になりたいAQUARIUM",
+  "base_artist": "Aqours",
+  "createdAt": "2025-12-27T16:37:18.963735Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋になりたいAQUARIUM",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/01_恋になりたいAQUARIUM_Aqours.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋になりたいAQUARIUM",
+      "artist": "Aqours",
+      "has_synced": false,
+      "path": "select/pl_01_恋になりたいAQUARIUM_Aqours.txt"
+    }
+  ]
+}
